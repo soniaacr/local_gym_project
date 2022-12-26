@@ -1,0 +1,62 @@
+.text-title {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 0.1em;
+    color:rgb(147, 180, 80);
+    text-shadow: -1px 1px  rgb(0, 0, 0),
+    1px  1px  0 rgb(111, 96, 96),
+    1px -1px  0 rgb(85, 73, 73),
+    -1px -1px 0 rgb(120, 97, 97);
+    margin-top: 5em;
+}
+.navbar-brand {
+    width: 105%;
+}
+.container {
+    padding-top: 10px;
+}
+.about {
+    padding-top: 25px;
+}
+.btn {
+    color: white;
+    background-color: rgb(147, 180, 80);
+}
+.equipment {
+    text-align: center;
+    color: rgb(147, 180, 80);
+    font-weight: bold;
+    padding: 0.8em;
+}
+.equipment-offered{
+    text-align: center;
+    color: black;
+}
+
+.lifestyle {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(147, 180, 80);
+    padding: 0.8em;
+}
+.training {
+    text-align: center;
+    color: black;
+}
+.classes{
+    display:list-item;
+    
+}
+.services {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(147, 180, 80);
+    padding: 0.8em;
+}
+.services-offered {
+    margin:10px;
+}
+.bottom {
+    margin: 3.5em;
+    text-align: center;
+}

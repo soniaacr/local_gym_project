@@ -1,0 +1,71 @@
+.background {
+    width: 105%;
+}
+
+.text-title {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 0.1em;
+    color:rgb(147, 180, 80);
+    text-shadow: -1px 1px  rgb(0, 0, 0),
+    1px  1px  0 rgb(111, 96, 96),
+    1px -1px  0 rgb(85, 73, 73),
+    -1px -1px 0 rgb(120, 97, 97);
+    margin-top: 5em;
+}
+    
+.sign-up {
+    background-color: rgb(209, 230, 166);
+    padding-right: 10px;
+    border-radius: 0.5em;
+}
+.section {
+    padding-top: 1em;
+    padding-left: 2in;
+    padding-right: 2in;
+    margin:3em;
+    height: 50px;
+}
+.d-md-flex {
+    height: 4.5em;
+}
+.input-group {
+    width: 75%;
+}
+.info {
+    font-size: 0.9em;
+    justify-content: center;
+    padding-top: 4.5px;
+    padding-left: 65px;
+    color: rgb(52, 47, 47);
+}
+.nav-item {
+    scroll-margin-block:4em;
+    text-shadow: -1px 1px 2px rgb(0, 0, 0),
+}
+.grabber{
+    color:rgb(147, 180, 80);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.btn:hover {
+    color: rgb(209, 230, 166);
+}
+.nav-item:hover {
+    color: rgb(147, 180, 80);
+}
+.classes {
+    font-size: 2em;
+    text-decoration:underline;
+    color: rgb(147, 180, 80);
+    text-align: center;
+}
+.caption {
+    text-align: center;
+    padding-top: 1.5em;
+}
+.more {
+    font-size: 14px;
+    text-align: center;
+    text-decoration:underline
+}
